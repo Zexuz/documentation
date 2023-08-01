@@ -18,7 +18,7 @@
   bottom: 1.7em;
   left: 0;
   right: 0;
-  content: attr(description);
+  content: attr(tooltip-text);
   visibility: hidden;
   opacity: 0;
   width: 50vw;
